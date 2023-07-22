@@ -51,3 +51,56 @@
 ####   -如果使用FBX形式导入此模型，或者为其创建动画后以FBX形式导入，可能会出现材质出现面朝向错误的情况，你可以通过Blender属性面板中的材质选项卡内的视图着色方式，将Alpha钳制改为不透明即可解决此问题，其它格式暂未发现相关问题。
 ####   ![无标题111](https://user-images.githubusercontent.com/61368414/235972553-517fb5cc-8e17-4512-9000-3cce650f4fad.png)
 
+
+# Max Caulfield - Whole Body Control System 2nd Edition
+## V0.1.2 Second Edition Released on July 23, 2023
+    This system is based on the bones and shape keys in Blender. It is a full-body control system created for Max Caulfield. It includes Max Caulfield's face and body movements. It is compatible with most full-body motion capture and facial capture software. It is also compatible with Adobe animation libraries. You can directly use FBX format to export and create animation and motion effects for it, and you can also create dynamic effects for it in Blender. The face and body of the Max Caulfield full body control system are separated, so you can only control Max Caulfield's body without affecting his facial movements. Facial movements are controlled by Blender. Shape keys to control its facial expressions, including eyebrows, eyes, nose, mouth, tongue, eyelashes, etc., and set the maximum value of the corresponding shape keys on the face. This branch is only compatible with Blender 3.4-3.6 and above. For the specific version compatibility list, please refer to the instructions below. You can download its 3D software through Blender’s official website, and open and modify its expressions. There are detailed tutorial instructions, which have been described in detail on BiliBili, Youtube, Xigua Video, Douyin and other platforms. You can refer to the relevant information to get how to use It, if you don't know 3D software or Blender, please don't change its related value to avoid problems. ![Untitled 111](https://user-images.githubusercontent.com/61368414/235973174-15110931-13d0-4702-81d1-53433a60a89d.png)
+   
+## version compatibility list
+<table width="100%" border="1">
+   <tbody>
+     <tr>
+       <td>Version</td>
+       <td>Compatible</td>
+       <td>Update time</td>
+       <td>Model Appearance</td>
+       <td>Control system author</td>
+     </tr>
+     <tr>
+       <td>v0.1.1</td>
+       <td>Blender 3.4</td>
+       <td>May 16, 2023</td>
+       <td>Max Caulfield (Butterfly)</td>
+       <td>Alice's AX400 (I'm a dog after all)</td>
+     </tr>
+     <tr>
+       <td>v0.1.2</td>
+       <td>Blender 3.6</td>
+       <td>July 23, 2023</td>
+       <td>Max Caulfield (Underwear)</td>
+       <td>Alice's AX400 (I'm a dog after all)</td>
+     </tr>
+     <tr>
+       <td>v0.1.1 Remastered</td>
+       <td>Blender 3.6</td>
+       <td>July 23, 2023</td>
+       <td>Max Caulfield (Butterfly)</td>
+       <td>Alice's AX400 (I'm a dog after all)</td>
+     </tr>
+   </tbody>
+</table>
+
+# Max Caulfield - Whole Body Control System Version 1
+## V0.1.1 Remastered Released on July 23, 2023
+### Known issues:
+#### - Relevant texture assets were not packaged in the Blend file, this has been fixed
+## V0.1.1 First version released on May 3, 2023
+### Known issues:
+#### - When using facial capture software to create expression animations for Max Caulfield, if his eyebrows are changed, the eyes will appear too large. This problem can be solved by turning off the problem shape key. This problem will be fixed in the next version.
+#### ![QQ picture 20230504000055](https://user-images.githubusercontent.com/61368414/235972815-4de50b8c-0b3d-4944-b257-3c34a7b952e8.png)
+## V0.1.0 internal beta version released on May 1, 2023, its branch has not yet been announced
+### Known issues:
+#### - When controlling Max Caulfield's head to rotate (or importing other animation or motion capture software, Max Caulfield's face will be stretched, this problem has been fixed in version V0.1.1.
+##### ![QQ picture 20230503235825](https://user-images.githubusercontent.com/61368414/235971809-85d0cd8b-a5d8-4b95-80e9-edf941f7aaee.png)
+#### - If you use FBX to import this model, or create an animation for it and then import it in FBX form, the material may face the wrong direction. You can solve this problem by changing the alpha clamp to opaque through the view coloring method in the material tab of the Blender property panel. No related problems have been found in other formats.
+#### ![Untitled 111](https://user-images.githubusercontent.com/61368414/235972553-517fb5cc-8e17-4512-9000-3cce650f4fad.png)
