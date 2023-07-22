@@ -1,9 +1,38 @@
 # Max Caulfield-全身控制系统第二版
 ## 版本兼容列表
-版本                           兼容          更新时间       模型外观                        控制系统制作作者
-v0.1.1                         Blender 3.4   2023年5月16日  Max Caulfield (Butterfly)      Alice的AX400（我毕竟是狗啊）
-v0.1.2                         Blender 3.6   2023年7月23日  Max Caulfield (Underwear)      Alice的AX400（我毕竟是狗啊）
-v0.1.1 Remastered              Blender 3.6   2023年7月23日  Max Caulfield (Butterfly)      Alice的AX400（我毕竟是狗啊）
+<table width="100%" border="1">
+  <tbody>
+    <tr>
+      <td>版本</td>
+      <td>兼容</td>
+      <td>更新时间</td>
+      <td>模型外观</td>
+      <td>控制系统作者</td>
+    </tr>
+    <tr>
+      <td>v0.1.1</td>
+      <td>Blender 3.4</td>
+      <td>2023年5月16日</td>
+      <td>Max Caulfield (Butterfly)</td>
+      <td>Alice的AX400（我毕竟是狗啊）</td>
+    </tr>
+    <tr>
+      <td>v0.1.2</td>
+      <td>Blender 3.6</td>
+      <td>2023年7月23日</td>
+      <td>Max Caulfield (Underwear)</td>
+      <td>Alice的AX400（我毕竟是狗啊）</td>
+    </tr>
+    <tr>
+      <td>v0.1.1 Remastered</td>
+      <td>Blender 3.6</td>
+      <td>2023年7月23日</td>
+      <td>Max Caulfield (Butterfly)</td>
+      <td>Alice的AX400（我毕竟是狗啊）</td>
+    </tr>
+  </tbody>
+</table>
+
 ## V0.1.2 第二版 发布于2023年7月23日
    本系统是基于Blender中的骨骼和形态键为基础，为Max Caulfield创建的全身控制系统，它包括Max Caulfield的脸部已经身体的动作，兼容大多数全身动作捕捉以及面部捕捉软件，兼容Adobe动画库，可以直接使用FBX的格式导出并为其创建动画和动作效果，也可以在Blender中为其创建动态效果，Max Caulfield全身控制系统的脸部和身体是分开的，因此你可以只控制Max Caulfield的身体但可以无需影响其脸部动作，脸部动作由Blender中的形态键来控制其脸部表情，包括眉毛，眼睛，鼻子，嘴巴，舌头，睫毛等，并为其设置了脸部相应形态键的最大值，此分支仅兼容Blender3.4-3.6以上的版本，具体版本兼容列表请参阅下方说明，你可以通过Blender官方网站下载其三维软件，并打开和修改其表情动作，有关于详细的教程说明，已在BiliBili，Youtube，西瓜视频，抖音等平台详细描述，你可通过参阅有关信息来获取如何使用它，如果你并不了解三维软件或Blender，请不要更改其相关的值，以免出现问题。![无标题111](https://user-images.githubusercontent.com/61368414/235973174-15110931-13d0-4702-81d1-53433a60a89d.png)
 # Max Caulfield-全身控制系统第一版
