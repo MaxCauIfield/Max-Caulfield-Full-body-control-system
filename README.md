@@ -72,21 +72,21 @@ This system is based on the bones and shape keys in Blender. It is a full-body c
        <td>Blender 3.4</td>
        <td>May 16, 2023</td>
        <td>Max Caulfield (Butterfly)</td>
-       <td>Alice's AX400 (I'm a dog after all)</td>
+       <td>Github：MaxCaulfield（MaxCauIfield）</td>
      </tr>
      <tr>
        <td>v0.1.2</td>
        <td>Blender 3.6</td>
        <td>July 23, 2023</td>
        <td>Max Caulfield (Underwear)</td>
-       <td>Alice's AX400 (I'm a dog after all)</td>
+       <td>Github：MaxCaulfield（MaxCauIfield）</td>
      </tr>
      <tr>
        <td>v0.1.1 Remastered</td>
        <td>Blender 3.6</td>
        <td>July 23, 2023</td>
        <td>Max Caulfield (Butterfly)</td>
-       <td>Alice's AX400 (I'm a dog after all)</td>
+       <td>Github：MaxCaulfield（MaxCauIfield）</td>
      </tr>
    </tbody>
 </table>
