@@ -63,12 +63,15 @@
   </tbody>
 </table>
 
+![_preview_00000](https://github.com/user-attachments/assets/0fd140b2-130b-4bf7-a8ef-491547bf5288)
+
 ------------------------------------------------------
 # 以下是其旧版本（Blender版本）的历史更新日志
 ## The following is the historical update log of its old version (Blender version)
 # Max Caulfield-全身控制系统第二版
 ## V0.1.2 第二版 发布于2023年7月23日
-[无标题111](https://user-images.githubusercontent.com/61368414/235973174-15110931-13d0-4702-81d1-53433a60a89d.png)
+
+![无标题111](https://user-images.githubusercontent.com/61368414/235973174-15110931-13d0-4702-81d1-53433a60a89d.png)
    
 # Max Caulfield-全身控制系统第一版
 ## V0.1.1 Remastered 重置版 发布于2023年7月23日
