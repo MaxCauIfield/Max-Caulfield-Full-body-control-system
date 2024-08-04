@@ -117,7 +117,9 @@ The project author has the right to change, revoke, redistribute its relevant li
 </tr>
 <tr>
 <td>v0.1.2</td>
-<td>Blender 3.6</td> <td>July 23, 2023</td> <td>Max Caulfield (Underwear)</td> <td>Alice's AX400</td> </tr> <tr> <td>v0.1.1 Remastered</td> <td>Blender 3.6</td> <td>July 23, 2023</td> <td>Max Caulfield (B utterfly)</td> <td>Alice's AX400</td> </tr> </tbody> </table> ![_preview_00000](https://github.com/user-attachments/assets/0fd140b2-130b-4bf7-a8ef-491547bf5288)
+<td>Blender 3.6</td> <td>July 23, 2023</td> <td>Max Caulfield (Underwear)</td> <td>Alice's AX400</td> </tr> <tr> <td>v0.1.1 Remastered</td> <td>Blender 3.6</td> <td>July 23, 2023</td> <td>Max Caulfield (B utterfly)</td> <td>Alice's AX400</td> </tr> </tbody> </table> 
+
+![_preview_00000](https://github.com/user-attachments/assets/0fd140b2-130b-4bf7-a8ef-491547bf5288)
 
 ------------------------------------------------------
 # 以下是其旧版本（Blender版本）的历史更新日志
