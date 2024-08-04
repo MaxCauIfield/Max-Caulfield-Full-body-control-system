@@ -65,6 +65,60 @@
 
 ![_preview_00000](https://github.com/user-attachments/assets/0fd140b2-130b-4bf7-a8ef-491547bf5288)
 
+
+# English：
+
+# Max Caulfield-Full body control system version 3
+## V0.1.3 Beta version 3 released on August 5, 2024
+This system is based on CC4 characters (the old version is based on bones and shape keys in Blender), and is a full body control system created for Max Caulfield (Life is strange1)
+##### It includes:
+<p>⭐ Standard Max Caulfield CC4 character characters, compatible with most motion capture systems and facial capture systems</p>
+<p>⭐ Supports exporting almost all supported 3D formats, and can be seamlessly connected to most DCC software and game engines</p>
+<p>⭐ Standard 2K PBR models with AAA quality and free body control system</p>
+<p>⭐ Compatible with Adobe Mixamo animation library and Neuten motion capture system, support one-click upload to Sketchfab</p>
+<p>⭐Simple facial and body motion director, free assembly system and compatible software powerful model library</p>
+<p>⭐No need to learn any DCC software, face and body can be controlled independently and naturally</p>
+
+![_preview_00000](https://github.com/user-attachments/assets/cfb263e5-67f4-402e-8f9b-d59dbb57b375)
+
+The motion director function is a shape key in the old version, which includes two parts: face and body (the old version of facial movements are controlled by the shape keys in Blender to control its facial expressions). It supports the control of eyebrows, eyes, nose, mouth, tongue, eyelashes, etc., and sets the maximum value of the corresponding shape key for the face. This branch is only compatible with versions above CC4 (the old version is compatible with Blender3.4-3.6). Please refer to the instructions below for the specific version compatibility list. You can use Reallusion Or download the supported software from Blender's official website, and modify and create its facial expressions. Detailed tutorial instructions have been described in detail on BiliBili, Youtube, Xigua Video, Douyin and other platforms. You can refer to the relevant information to get how to use it. If you do not understand its actual use, please do not change its related values ​​to avoid problems. !
+
+Note: The "old version" in this document refers to versions 0.1.2 and earlier
+
+![image](https://github.com/user-attachments/assets/d63a0b11-0088-4364-9bf7-55ed53a9b002)
+
+This work is licensed under Creative Commons Attribution-Noncommercial-Share Alike 4.0 International. Please use this project in accordance with the CC-BY-NC-SA agreement. For more information about this agreement, please visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+The project author has the right to change, revoke, redistribute its relevant license agreement and retain the ownership of the rights
+
+## Version compatibility list
+<table width="100%" border="1">
+<tbody>
+<tr>
+<td>Version</td>
+<td>Compatibility</td>
+<td>Update time</td>
+<td>Model Appearance</td>
+<td>Control System Author</td>
+</tr>
+<tr>
+<td>v0.1.3</td>
+<td>Character Creator v4.3</td>
+<td>August 5, 2024</td>
+<td>Max Caulfield (Butterfly)</td>
+<td>Alice's AX400</td>
+</tr>
+<tr>
+<td>v0.1.1</td>
+<td>Blender 3.4</td>
+<td>May 16, 2023</td>
+<td>Max Caulfield (Butterfly)</td>
+<td>Alice's AX400</td>
+</tr>
+<tr>
+<td>v0.1.2</td>
+<td>Blender 3.6</td> <td>July 23, 2023</td> <td>Max Caulfield (Underwear)</td> <td>Alice's AX400</td> </tr> <tr> <td>v0.1.1 Remastered</td> <td>Blender 3.6</td> <td>July 23, 2023</td> <td>Max Caulfield (B utterfly)</td> <td>Alice's AX400</td> </tr> </tbody> </table> ![_preview_00000](https://github.com/user-attachments/assets/0fd140b2-130b-4bf7-a8ef-491547bf5288)
+
 ------------------------------------------------------
 # 以下是其旧版本（Blender版本）的历史更新日志
 对v0.1.1、v0.1.0的支持即将结束，建议使用最新版本的Max Caulfield控制系统以获得最佳支持
