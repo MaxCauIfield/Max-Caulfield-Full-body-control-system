@@ -1,11 +1,9 @@
 # Max Caulfield-全身控制系统第三版
-## V0.1.3 第三版 发布于2024年7月8日
+## V0.1.3 第三版 发布于2024年8月5日
    本系统是基于CC4角色为基础（旧版基于Blender中的骨骼和形态键），为Max Caulfield（Life is strange1）创建的全身控制系统，它包括Max Caulfield的脸部和身体的动作，兼容大多数动作捕捉系统以及面部捕捉系统，支持导出几乎所有的3D格式，兼容Adobe Mixamo动画库和诺伊腾动作捕捉系统，无需任何3D软件基础，可以直接使用运动导演功能（旧版为形态键）为其创建动画和动作效果，它包括脸部和身体两部分，（旧版脸部动作由Blender中的形态键来控制其脸部表情），支持控制包括眉毛，眼睛，鼻子，嘴巴，舌头，睫毛等，并为其设置了脸部相应形态键的最大值，此分支仅兼容CC4以上的版本（旧版兼容Blender3.4-3.6），具体版本兼容列表请参阅下方说明，你可以通过Reallusion 或Blender官方网站下载受支持的软件，并修改和制作其表情动作，有关于详细的教程说明，已在BiliBili，Youtube，西瓜视频，抖音等平台详细描述，你可通过参阅有关信息来获取如何使用它，如果你并不了解其实际用途，请不要更改其相关的值，以免出现问题。!
-# Max Caulfield-全身控制系统第二版
-## V0.1.2 第二版 发布于2023年7月23日
-[无标题111](https://user-images.githubusercontent.com/61368414/235973174-15110931-13d0-4702-81d1-53433a60a89d.png)
-   
-## 版本兼容列表
+   注意：此文档中的“旧版”指的是0.1.2及之前的版本，
+
+   ## 版本兼容列表
 <table width="100%" border="1">
   <tbody>
     <tr>
@@ -14,6 +12,13 @@
       <td>更新时间</td>
       <td>模型外观</td>
       <td>控制系统作者</td>
+    </tr>
+      <tr>
+      <td>v0.1.3</td>
+      <td>Character Creator v4.3</td>
+      <td>2024年8月5日</td>
+      <td>Max Caulfield (Butterfly)</td>
+      <td>Alice的AX400</td>
     </tr>
     <tr>
       <td>v0.1.1</td>
@@ -39,6 +44,13 @@
   </tbody>
 </table>
 
+------------------------------------------------------
+# 以下是其旧版本（Blender版本）的历史更新日志
+## The following is the historical update log of its old version (Blender version)
+# Max Caulfield-全身控制系统第二版
+## V0.1.2 第二版 发布于2023年7月23日
+[无标题111](https://user-images.githubusercontent.com/61368414/235973174-15110931-13d0-4702-81d1-53433a60a89d.png)
+   
 # Max Caulfield-全身控制系统第一版
 ## V0.1.1 Remastered 重置版 发布于2023年7月23日
 ###   已知问题：
