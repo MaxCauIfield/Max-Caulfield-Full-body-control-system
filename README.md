@@ -5,7 +5,7 @@
    
 ![image](https://github.com/user-attachments/assets/d63a0b11-0088-4364-9bf7-55ed53a9b002)
 
-本项目在CC-BY-NC-SA协议下进行分发和共享，使用此项目请遵守CC-BY-NC-SA协议，有关于此协议的详细信息，请访问https://creativecommons.org/licenses/by-nc-sa/4.0/
+本作品授权下Creative Commons 署名-非商业性使用-相同方式共享 4.0 国际，使用此项目请遵守CC-BY-NC-SA协议，有关于此协议的详细信息，请访问https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 项目作者有权更改，撤销，重新分发其相关许可证协议并保留权利归属
 
