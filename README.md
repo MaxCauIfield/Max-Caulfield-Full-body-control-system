@@ -1,5 +1,5 @@
 # Max Caulfield-全身控制系统第三版
-## V0.1.3 第三版 发布于2024年8月5日
+## V0.1.3 Beta 第三版 发布于2024年8月5日
    本系统是基于CC4角色为基础（旧版基于Blender中的骨骼和形态键），为Max Caulfield（Life is strange1）创建的全身控制系统
 ##### 它包括：
 <p>⭐标准的Max Caulfield CC4字符角色，兼容大多数动作捕捉系统以及面部捕捉系统</p>
@@ -67,6 +67,7 @@
 
 ------------------------------------------------------
 # 以下是其旧版本（Blender版本）的历史更新日志
+对v0.1.1、v0.1.0的支持即将结束，建议使用最新版本的Max Caulfield控制系统以获得最佳支持
 ## The following is the historical update log of its old version (Blender version)
 # Max Caulfield-全身控制系统第二版
 ## V0.1.2 第二版 发布于2023年7月23日
